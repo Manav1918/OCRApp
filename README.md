@@ -1,1 +1,1 @@
-# OCRApp
+# OCRApp - The Image to Text Converter
