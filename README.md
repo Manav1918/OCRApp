@@ -21,7 +21,9 @@ Extracted text
 ![screenshot2](https://user-images.githubusercontent.com/41276382/156905661-bba65bfc-3de8-416e-8956-f28b02088c3c.png)
 
 For more help, You can contact us on: https://m.me/cideduhub or https://m.me/CIDAnPawan
+<br>
 This Project is fully Described on Youtube at :
+[![ocr_app_thumb](https://user-images.githubusercontent.com/41276382/156908157-3145c4a4-5dc7-4bf5-99ec-33a5e1cb2d7b.png)](https://youtu.be/GRTJhSi8S3U)
 
 [SUBSCRIBE](https://www.youtube.com/c/cidaneducationhub?sub_confirmation=1) for more such Projects tutorials and codes.
 
