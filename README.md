@@ -11,7 +11,7 @@ Extracted text
 For more help, You can contact us on: https://m.me/cideduhub or https://m.me/CIDAnPawan
 This Project is fully Described on Youtube at :
 
-!.[SUBSCRIBE](https://www.youtube.com/c/cidaneducationhub&subscribe=1) for more such Projects tutorials and codes.
+!.[SUBSCRIBE](https://www.youtube.com/c/cidaneducationhub?sub_confirmation=1) for more such Projects tutorials and codes.
 
 Donate and encourage us :<br>
 PayPal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cideduhub)
