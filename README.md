@@ -19,5 +19,5 @@ PayPal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
 <br>or,
 GPay: ![GPayQR](https://user-images.githubusercontent.com/41276382/156905990-831e1440-c40e-467f-8e96-2a90e69c15a1.jpg)
 
-If You liked our effort and this repo helped you, please give one star* 
+If You liked our effort and this repo helped you, please give one star* <br>
 ***Thank You***
