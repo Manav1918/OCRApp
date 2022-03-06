@@ -13,7 +13,8 @@ This Application can covert your selected image containing texts in text format 
    <a href="https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.1.20220118.exe">Tesseract-OCR.exe</a>
    </li>
    </ul>
-Application ScreenShot:<br>
+Application ScreenShot:
+
 ![screenshot1](https://user-images.githubusercontent.com/41276382/156905630-81791129-0e84-4f52-8aee-d155a479cf33.png)
 
 Extracted text
